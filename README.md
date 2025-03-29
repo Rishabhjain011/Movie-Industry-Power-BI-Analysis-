@@ -50,8 +50,14 @@ The Power BI dashboard is designed to be interactive and informative, showcasing
 # Multi-Page Dashboard:
 
 Financial Analysis: Visuals focused on budget, revenue, profit, and ROI, including trends in average budgets and worldwide gross revenue over the years.
+![Screenshot 2025-03-29 124706](https://github.com/user-attachments/assets/152359eb-f87b-4b81-8683-8a737ffd7302)
+
 Audience Ratings: Visuals such as scatter plots comparing IMDb and Rotten Tomatoes ratings, and heatmaps showing the distribution of ratings across different genres.
+![Screenshot 2025-03-29 124627](https://github.com/user-attachments/assets/b2216fcf-50db-4d09-bf88-2b2302e52b54)
+
 Genre Analysis: Visuals like column charts and treemaps comparing movie genres, revenue per genre, and genre ratings.
+![Screenshot 2025-03-29 124657](https://github.com/user-attachments/assets/916677b1-788d-4851-bd25-bed68e3ea673)
+
 Global Filters:
 
 A release year filter applicable across all tabs for easy segmentation of data by year.
